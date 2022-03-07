@@ -1,6 +1,6 @@
 # mekancimapp
 
-A new Flutter project.
+Mekancim is a social media app based on voting places around the world. It's work with google maps api services and firebase api. You can create a profile just like in other social media apps. Then you can vote and share your experiences with places,restaurants,coffee shops etc. around the world.
 
 ## Getting Started
 
